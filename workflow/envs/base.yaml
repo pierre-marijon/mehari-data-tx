@@ -13,3 +13,5 @@ dependencies:
   - jaq ==2.3.0
   - miller ==6.16.0
   - pigz ==2.8
+  - numpy ==2
+  - pandas ==3
